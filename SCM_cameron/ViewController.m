@@ -2,8 +2,8 @@
 //  ViewController.m
 //  SCM_cameron
 //
-//  Created by Habib Sarbolandi on 8/28/17.
-//  Copyright © 2017 Habib Sarbolandi. All rights reserved.
+//  Created by Cameron Ghods on 8/28/17.
+//  Copyright © 2017 Cameron Ghods. All rights reserved.
 //
 
 #import "ViewController.h"

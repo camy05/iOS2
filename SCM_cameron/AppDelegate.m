@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  SCM_cameron
 //
-//  Created by Habib Sarbolandi on 8/28/17.
-//  Copyright © 2017 Habib Sarbolandi. All rights reserved.
+//  Created by Cameron Ghods on 8/28/17.
+//  Copyright © 2017 Cameron Ghods. All rights reserved.
 //
 
 #import "AppDelegate.h"
@@ -24,6 +24,8 @@
 - (void)applicationWillResignActive:(UIApplication *)application {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
     // Use this method to pause ongoing tasks, disable timers, and invalidate graphics rendering callbacks. Games should use this method to pause the game.
+    
+    \\ hello world
 }
 
 
